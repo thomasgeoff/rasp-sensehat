@@ -1,7 +1,7 @@
 {
   "name": "iot",
   "version": "1.0.0",
-  "description": "learn ho to make webapp with Node.js",
+  "description": "learn how to make webapp with Node.js",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
