@@ -63,7 +63,7 @@ router.get('/details',(req,res) => {
 							   temperature: temperatures.reverse(),
 							   humidity: humidities.reverse(),
 							   brightness:brightnesses.reverse(),
-							   times: times.reverse() 	
+							   times: times 	
 		});
 	})
 	.catch( function(err) {
